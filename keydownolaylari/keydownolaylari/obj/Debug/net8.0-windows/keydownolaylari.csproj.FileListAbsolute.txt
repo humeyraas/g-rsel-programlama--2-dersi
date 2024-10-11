@@ -1,0 +1,16 @@
+C:\Users\casper\source\repos\keydownolaylari\keydownolaylari\bin\Debug\net8.0-windows\keydownolaylari.exe
+C:\Users\casper\source\repos\keydownolaylari\keydownolaylari\bin\Debug\net8.0-windows\keydownolaylari.deps.json
+C:\Users\casper\source\repos\keydownolaylari\keydownolaylari\bin\Debug\net8.0-windows\keydownolaylari.runtimeconfig.json
+C:\Users\casper\source\repos\keydownolaylari\keydownolaylari\bin\Debug\net8.0-windows\keydownolaylari.dll
+C:\Users\casper\source\repos\keydownolaylari\keydownolaylari\bin\Debug\net8.0-windows\keydownolaylari.pdb
+C:\Users\casper\source\repos\keydownolaylari\keydownolaylari\obj\Debug\net8.0-windows\keydownolaylari.Form1.resources
+C:\Users\casper\source\repos\keydownolaylari\keydownolaylari\obj\Debug\net8.0-windows\keydownolaylari.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\keydownolaylari\keydownolaylari\obj\Debug\net8.0-windows\keydownolaylari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\source\repos\keydownolaylari\keydownolaylari\obj\Debug\net8.0-windows\keydownolaylari.AssemblyInfoInputs.cache
+C:\Users\casper\source\repos\keydownolaylari\keydownolaylari\obj\Debug\net8.0-windows\keydownolaylari.AssemblyInfo.cs
+C:\Users\casper\source\repos\keydownolaylari\keydownolaylari\obj\Debug\net8.0-windows\keydownolaylari.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\keydownolaylari\keydownolaylari\obj\Debug\net8.0-windows\keydownolaylari.dll
+C:\Users\casper\source\repos\keydownolaylari\keydownolaylari\obj\Debug\net8.0-windows\refint\keydownolaylari.dll
+C:\Users\casper\source\repos\keydownolaylari\keydownolaylari\obj\Debug\net8.0-windows\keydownolaylari.pdb
+C:\Users\casper\source\repos\keydownolaylari\keydownolaylari\obj\Debug\net8.0-windows\keydownolaylari.genruntimeconfig.cache
+C:\Users\casper\source\repos\keydownolaylari\keydownolaylari\obj\Debug\net8.0-windows\ref\keydownolaylari.dll

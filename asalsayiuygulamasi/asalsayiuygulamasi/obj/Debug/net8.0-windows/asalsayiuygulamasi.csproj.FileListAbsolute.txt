@@ -1,0 +1,16 @@
+C:\Users\casper\source\repos\asalsayiuygulamasi\asalsayiuygulamasi\obj\Debug\net8.0-windows\asalsayiuygulamasi.Form1.resources
+C:\Users\casper\source\repos\asalsayiuygulamasi\asalsayiuygulamasi\obj\Debug\net8.0-windows\asalsayiuygulamasi.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\asalsayiuygulamasi\asalsayiuygulamasi\obj\Debug\net8.0-windows\asalsayiuygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\source\repos\asalsayiuygulamasi\asalsayiuygulamasi\obj\Debug\net8.0-windows\asalsayiuygulamasi.AssemblyInfoInputs.cache
+C:\Users\casper\source\repos\asalsayiuygulamasi\asalsayiuygulamasi\obj\Debug\net8.0-windows\asalsayiuygulamasi.AssemblyInfo.cs
+C:\Users\casper\source\repos\asalsayiuygulamasi\asalsayiuygulamasi\obj\Debug\net8.0-windows\asalsayiuygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\asalsayiuygulamasi\asalsayiuygulamasi\bin\Debug\net8.0-windows\asalsayiuygulamasi.exe
+C:\Users\casper\source\repos\asalsayiuygulamasi\asalsayiuygulamasi\bin\Debug\net8.0-windows\asalsayiuygulamasi.deps.json
+C:\Users\casper\source\repos\asalsayiuygulamasi\asalsayiuygulamasi\bin\Debug\net8.0-windows\asalsayiuygulamasi.runtimeconfig.json
+C:\Users\casper\source\repos\asalsayiuygulamasi\asalsayiuygulamasi\bin\Debug\net8.0-windows\asalsayiuygulamasi.dll
+C:\Users\casper\source\repos\asalsayiuygulamasi\asalsayiuygulamasi\bin\Debug\net8.0-windows\asalsayiuygulamasi.pdb
+C:\Users\casper\source\repos\asalsayiuygulamasi\asalsayiuygulamasi\obj\Debug\net8.0-windows\asalsayiuygulamasi.dll
+C:\Users\casper\source\repos\asalsayiuygulamasi\asalsayiuygulamasi\obj\Debug\net8.0-windows\refint\asalsayiuygulamasi.dll
+C:\Users\casper\source\repos\asalsayiuygulamasi\asalsayiuygulamasi\obj\Debug\net8.0-windows\asalsayiuygulamasi.pdb
+C:\Users\casper\source\repos\asalsayiuygulamasi\asalsayiuygulamasi\obj\Debug\net8.0-windows\asalsayiuygulamasi.genruntimeconfig.cache
+C:\Users\casper\source\repos\asalsayiuygulamasi\asalsayiuygulamasi\obj\Debug\net8.0-windows\ref\asalsayiuygulamasi.dll

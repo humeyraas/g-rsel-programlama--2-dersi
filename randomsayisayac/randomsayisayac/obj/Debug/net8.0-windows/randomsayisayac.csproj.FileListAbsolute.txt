@@ -1,0 +1,16 @@
+C:\Users\casper\source\repos\randomsayisayac\randomsayisayac\bin\Debug\net8.0-windows\randomsayisayac.exe
+C:\Users\casper\source\repos\randomsayisayac\randomsayisayac\bin\Debug\net8.0-windows\randomsayisayac.deps.json
+C:\Users\casper\source\repos\randomsayisayac\randomsayisayac\bin\Debug\net8.0-windows\randomsayisayac.runtimeconfig.json
+C:\Users\casper\source\repos\randomsayisayac\randomsayisayac\bin\Debug\net8.0-windows\randomsayisayac.dll
+C:\Users\casper\source\repos\randomsayisayac\randomsayisayac\bin\Debug\net8.0-windows\randomsayisayac.pdb
+C:\Users\casper\source\repos\randomsayisayac\randomsayisayac\obj\Debug\net8.0-windows\randomsayisayac.Form1.resources
+C:\Users\casper\source\repos\randomsayisayac\randomsayisayac\obj\Debug\net8.0-windows\randomsayisayac.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\randomsayisayac\randomsayisayac\obj\Debug\net8.0-windows\randomsayisayac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\source\repos\randomsayisayac\randomsayisayac\obj\Debug\net8.0-windows\randomsayisayac.AssemblyInfoInputs.cache
+C:\Users\casper\source\repos\randomsayisayac\randomsayisayac\obj\Debug\net8.0-windows\randomsayisayac.AssemblyInfo.cs
+C:\Users\casper\source\repos\randomsayisayac\randomsayisayac\obj\Debug\net8.0-windows\randomsayisayac.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\randomsayisayac\randomsayisayac\obj\Debug\net8.0-windows\randomsayisayac.dll
+C:\Users\casper\source\repos\randomsayisayac\randomsayisayac\obj\Debug\net8.0-windows\refint\randomsayisayac.dll
+C:\Users\casper\source\repos\randomsayisayac\randomsayisayac\obj\Debug\net8.0-windows\randomsayisayac.pdb
+C:\Users\casper\source\repos\randomsayisayac\randomsayisayac\obj\Debug\net8.0-windows\randomsayisayac.genruntimeconfig.cache
+C:\Users\casper\source\repos\randomsayisayac\randomsayisayac\obj\Debug\net8.0-windows\ref\randomsayisayac.dll
